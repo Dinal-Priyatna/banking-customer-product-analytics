@@ -85,16 +85,5 @@ Dashboard terdiri dari 2 halaman:
 - Optimasi pricing produk demand tinggi
 - Prioritaskan campaign di kota dengan spending tinggi
 
----
-
-## 📸 Preview Dashboard
-Tambahkan screenshot dashboard di repo lalu rename:
-dashboard_screenshot.png
-
-Setelah upload gambar, tambahkan kode ini:
-![Dashboard](dashboard_screenshot.png)
-
----
-
 ## 👤 Author
 Dinal Priyatna – Aspiring Data Analyst
